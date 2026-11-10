@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future Academy - Digital Admission Demo",
+  "description": "Commercial educational academy website and digital admission system built by AdmissionBoost for private institutes in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
